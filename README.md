@@ -32,7 +32,7 @@ User Input (Text / Image)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Models**
 - llama-3.2-3B (via Ollama)
@@ -51,7 +51,7 @@ User Input (Text / Image)
 
 ---
 
-## 🎨 Supported Craft Categories
+## Supported Craft Categories
 
 - Ceramics  
 - Pottery  
