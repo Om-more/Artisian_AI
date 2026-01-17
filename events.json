@@ -1,0 +1,96 @@
+{
+  "events": [
+    {
+      "event_id": "KGAF_MUMBAI",
+      "event_name": "Kala Ghoda Art Festival",
+      "level": "national",
+      "cities": ["Mumbai"],
+      "states": ["Maharashtra"],
+      "typical_months": ["January", "February"],
+      "categories": ["Paintings", "Sculptures", "Miniatures"],
+      "event_type": "Art & Craft Exhibition",
+      "audience_type": "urban collectors",
+      "selling_style": "premium",
+      "description": "A well-known annual art and craft festival showcasing traditional and contemporary artworks.",
+      "official_link": "https://kalaghodaassociation.com"
+    },
+    {
+      "event_id": "DILLI_HAAT",
+      "event_name": "Dilli Haat Artisan Market",
+      "level": "city",
+      "cities": ["Delhi"],
+      "states": ["Delhi"],
+      "typical_months": ["All"],
+      "categories": ["Textile", "Pottery", "Jewellery"],
+      "event_type": "Artisan Market",
+      "audience_type": "general public",
+      "selling_style": "mass-premium",
+      "description": "A permanent artisan marketplace hosting rotating craft exhibitions and stalls.",
+      "official_link": "https://delhitourism.gov.in"
+    },
+    {
+      "event_id": "GOI_HANDICRAFT_EVENTS",
+      "event_name": "Government of India Handicraft Exhibitions",
+      "level": "national",
+      "cities": [],
+      "states": ["All"],
+      "typical_months": ["All"],
+      "categories": [
+        "Textile",
+        "Ceramics",
+        "Pottery",
+        "Jewellery",
+        "Sculptures",
+        "Paintings",
+        "Miniatures"
+      ],
+      "event_type": "Government-supported Handicraft Exhibitions",
+      "audience_type": "diverse buyers",
+      "selling_style": "mass to premium",
+      "description": "A series of handicraft exhibitions and fairs organized across different states and cities under the Ministry of Textiles, Government of India.",
+      "official_link": "https://indian.handicrafts.gov.in/en/events"
+    },
+    {
+    "event_id": "NSAC_ART_N_ART_NATIONAL",
+    "event_name": "Art N Art National Level Art Exhibition & Competitions",
+    "level": "national",
+    "cities": ["Delhi"],
+    "states": ["Delhi"],
+    "typical_months": ["All"],
+    "categories": ["Paintings", "Sculptures"],
+    "event_type": "National Art Exhibition & Competitions",
+    "audience_type": "artists and art enthusiasts",
+    "selling_style": "exhibition showcase",
+    "description": "Nav Shri Art & Culture Organises the annual 'Art N Art' National Level Art Exhibition and multiple all-India painting and craft competitions including online and child art contests. These provide national platforms for painters, sculptors, and craft makers to exhibit their work and compete for recognition and prizes. Official details and participation instructions are available via the organization's event pages.",
+    "official_link": "https://www.artnculture.org/events/index.html"
+    },
+    {
+    "event_id": "DASTKAR_NATIONAL_CRAFT_EVENTS",
+    "event_name": "Dastkar National Craft Bazaar & Exhibitions",
+    "level": "national",
+    "cities": ["New Delhi"],
+    "states": ["Delhi"],
+    "typical_months": ["October", "November", "December"],
+    "categories": ["Textile", "Ceramics", "Pottery", "Jewellery", "Sculptures", "Miniatures"],
+    "event_type": "Craft Bazaars & Exhibitions",
+    "audience_type": "craft lovers, buyers, tourists",
+    "selling_style": "bazaar & showcase",
+    "description": "Dastkar is a nationally recognized craft organization that regularly organizes craft bazaars and exhibitions featuring artisans from across India. These events promote traditional and contemporary crafts including textiles, pottery, jewellery and more. Artisans can showcase and sell their work to urban buyers and collectors. Visit the official site for current and upcoming event details.",
+    "official_link": "https://www.dastkar.org/event/"
+    },
+    {
+    "event_id": "ART_ALIVE_GALLERY_EXHIBITIONS",
+    "event_name": "Art Alive Gallery Exhibitions & Shows",
+    "level": "national",
+    "cities": ["New Delhi", "Mumbai"],
+    "states": ["Delhi", "Maharashtra"],
+    "typical_months": ["All"],
+    "categories": ["Paintings", "Sculptures", "Miniatures"],
+    "event_type": "Gallery Exhibitions & Art Shows",
+    "audience_type": "art enthusiasts, collectors",
+    "selling_style": "gallery showcase",
+    "description": "Art Alive Gallery hosts recurring art exhibitions and shows across major cities like New Delhi and Mumbai. These exhibitions spotlight contemporary and traditional artists, providing exposure to collectors and art buyers. Exhibition schedules vary seasonally — refer to the official site for current event listings and participation opportunities.",
+    "official_link": "https://artalivegallery.com/"
+    }
+  ]
+}

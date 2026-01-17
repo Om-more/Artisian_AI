@@ -1,0 +1,14 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# FAISS index / generated data
+faiss_index/
+
+# OS / editor
+.vscode/
+.idea/
+.DS_Store
